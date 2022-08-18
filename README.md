@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JaGPR
-- 👀 I’m interested in C/C++/Python/DSA   
-- 🌱 I’m currently learning C / C++
-- 💞️ I’m looking to collaborate on different projects and DSA learning  
+- 👋 Hi, I’m Jagpreet Singh
+- 👀 I’m interested in C/C++/Python/DSA/Android Devlopment/Java  
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on different projects and DSA learning  .
 - 📫 How to reach me https://www.linkedin.com/in/jagpreet-singh-847717212/ 
 
 <!---
