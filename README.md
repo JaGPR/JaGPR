@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagpreet Singh
 - 👀 I’m interested in C/C++/Python/DSA/Android Devlopment/Java  
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java/Flutter and Dart .
 - 💞️ I’m looking to collaborate on different projects and DSA learning  .
 - 📫 How to reach me https://www.linkedin.com/in/jagpreet-singh-847717212/ 
 
